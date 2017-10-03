@@ -1,0 +1,7 @@
+{
+  "mongodb_port": "27017",
+  "mongodb_url": "mongodb://localhost/",
+  "mongodb_schema": "chat",
+  "mongodb_user": null,
+  "mongodb_password": null
+}

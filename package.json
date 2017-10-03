@@ -1,0 +1,27 @@
+{
+  "name": "chat-server",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "ejs": "~2.5.6",
+    "express": "~4.15.2",
+    "express-session": "^1.15.3",
+    "mongoose": "^4.11.0",
+    "mongoose-paginate": "^5.0.3",
+    "mongoose-url-slugs": "^1.0.0",
+    "morgan": "~1.8.1",
+    "node-sass-middleware": "0.9.8",
+    "node-slug": "^0.0.2",
+    "serve-favicon": "~2.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
